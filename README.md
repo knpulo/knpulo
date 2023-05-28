@@ -1,6 +1,1 @@
-@Echo off 
-start mrt
-start temp
-start %temp%
-start Tasklist
-start curl parrot.live/forrest
+[7r64rjSS.txt](https://github.com/knpulo/knpulo/files/11585559/7r64rjSS.txt)
